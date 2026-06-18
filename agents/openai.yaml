@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Job Agent System"
+  short_description: "Build and operate a Streamlit-based AI job hunting pipeline."
+  default_prompt: "Design or implement a modular Codex Agent + Streamlit system for scraping, matching, ranking, and tailoring CVs for geoscience, energy, and ML job searches."
